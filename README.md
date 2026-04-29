@@ -1,2 +1,2 @@
-# EXAMEN_29_04_26
-Examen ultimo modulo
+# Calculadora infantil 
+realizada con canvas de gemini
